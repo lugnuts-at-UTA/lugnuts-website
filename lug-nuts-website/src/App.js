@@ -93,7 +93,7 @@ function App() {
       description: 'Linux and open-source enthusiast overseeing club operations.'
     },
     {
-      name: 'Tam Troung',
+      name: 'Tam Truong',
       role: 'Vice President',
       photo: CatPhoto,
       description: 'System administration and cybersecurity expert.'
@@ -105,13 +105,13 @@ function App() {
       description: 'Handles funds and financial operations.'
     },
     {
-      name: 'Robert Crocker',
+      name: 'Robert Cocker',
       role: 'LN Maintainer',
       photo: CatPhoto,
       description: 'Maintains and develops Lugnuts projects.'
     },
     {
-      name: 'Ryan Nyguen',
+      name: 'Ryan Nguyen',
       role: 'LN Maintainer',
       photo: CatPhoto,
       description: 'Maintains and develops Lugnuts projects.'
