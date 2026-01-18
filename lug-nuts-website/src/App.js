@@ -111,7 +111,7 @@ function App() {
       description: 'Maintains and develops Lugnuts projects.'
     },
     {
-      name: 'Ryan Ngyuen',
+      name: 'Ryan Nguyen',
       role: 'LN Maintainer',
       photo: CatPhoto,
       description: 'Maintains and develops Lugnuts projects.'
